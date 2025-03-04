@@ -3,7 +3,7 @@ import './App.css'
 import Sidebar from './Components/SideBar'
 import Top from './Components/Top'
 // import pic from './Components/Pic'
-import catIm from './Components/cat-im'
+// import catIm from './Components/cat-im'
 
 function App() {
 

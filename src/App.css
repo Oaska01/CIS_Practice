@@ -105,4 +105,12 @@
 body{
   background-color: #ab31c4;
   background-image: url(./assets/cat-image.jpg);
+  /* background-size: auto; */
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-position-y: 10%;
+  background-size: 50%;
+  /* background-size: 3.2em; */
+  /* background-size: 1200px; */
+  /* background-size: auto; */
 }
